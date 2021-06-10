@@ -1,13 +1,10 @@
 # Python Exception Handling
 
-<<<<<<< HEAD
-
 <link src="./assets/font/Tanha.ttf">
 
 # <div dir="rtl" style="font-family:'operator mono lig', tanha; font-weight:300;">
 
 <div dir="rtl" style="font-family:tanha; font-weight:300;">
->>>>>>> e4debc1a463823102e5c9e2ec6b7a8ad46bfbfd6
 
 ## مدیریت کردن استثنائات در پایتون
 
